@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898221984602",
+    "firebase_url": "https://ionic-4-fmc.firebaseio.com",
+    "project_id": "ionic-4-fmc",
+    "storage_bucket": "ionic-4-fmc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898221984602:android:db471782cd6faf9f",
+        "android_client_info": {
+          "package_name": "com.alfredo.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898221984602-qv2n8i8bvh45n6v8o2f07etumstq4ca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6XiuaJZOPsCwTNsqL8obd-eRBOgl2JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898221984602-qv2n8i8bvh45n6v8o2f07etumstq4ca4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

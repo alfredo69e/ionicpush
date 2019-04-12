@@ -1,5 +1,7 @@
 {
   "name": "ionic4Push",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
